@@ -1,0 +1,123 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Smart Farm actuator control</title>
+    <meta name="viewport" content="width=200, initial-scale=1, maximum-scale=1">
+	<style>
+        #jb-container {
+            width: 930px;
+            margin: 10px auto;
+            padding: 10px;
+            border: 1px solid #bcbcbc;
+        }
+        #jb-header {
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #bcbcbc;
+        }
+        #jb-content {
+            width: 100%;
+            margin-bottom: 20px;
+            float: left;
+            border: 1px solid #bcbcbc;
+        }
+        #jb-sidebar {
+            width: 260px;
+            padding: 20px;
+            margin-bottom: 20px;
+            float: right;
+            border: 1px solid #bcbcbc;
+        }
+        #jb-footer {
+            clear: both;
+            padding: 20px;
+            border: 1px solid #bcbcbc;
+        }
+        @media ( max-width: 480px ) {
+            #jb-container {
+            width: auto;
+            }
+            #jb-content {
+            float: none;
+            width: auto;
+            }
+            #jb-sidebar {
+            float: none;
+            width: auto;
+            }
+        }
+        .button {
+            background-color: #4CAF50; /* Green */
+            border: none;
+            color: white;
+            padding: 12px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            -webkit-transition-duration: 0.4s; /* Safari */
+            transition-duration: 0.4s;
+            cursor: pointer;
+        }
+            .button1 {
+            background-color: white; 
+            color: black; 
+            border: 2px solid #4CAF50;
+            margin-left:20px;
+        }
+        
+        .button1:hover {
+            background-color: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+    
+<body>
+    <p style="text-align:center; clear: none; float: none; font-size : 30px;">마이페이지</p>
+    <div align="center" style="margin: 0 0 10px 10px">
+        <ul >
+            <button class="button button1" style="float left;" value="pump on" onClick="cmd('PUMPON')">펌프 끄기 </button>
+			<button class="button button1" style="float left;" value="pump off" onClick="cmd('PUMPOFF')">펌프 키기</button>
+			
+        </ul>
+		<ul >
+            <button class="button button1" value="pump on" onClick="cmd('FANON')">선풍기 켜기</button>
+			<button class="button button1" value="pump on" onClick="cmd('FANOFF')">선풍기 끄기</button>
+        </ul>
+			
+		<ul >
+            <button class="button button1" value="pump on" onClick="cmd('MOTORON')">모터 키기</button>
+			<button class="button button1" value="pump on" onClick="cmd('MOTOROFF')">모터 끄기</button>
+        </ul>
+			
+		<ul >
+            <button class="button button1" value="pump on" onClick="cmd('RGBON')">불 키기</button>
+		    <button class="button button1" value="pump on" onClick="cmd('RGBOFF')">불 끄기</button>
+        </ul>
+			
+
+    </div>
+        
+    <script type="text/javascript">
+        function cmd(value) {
+            if( window.XMLHttpRequest ) {
+                request = new XMLHttpRequest();
+            }
+
+            if( !request ) {
+                alert("XMLHttpRequest Error");	
+                return false;
+            }
+                
+            var send = 'cmd=' + value;
+            request.open('POST','/rccar',true);
+            request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+            request.setRequestHeader('Content-Length', send.length);
+            request.setRequestHeader('Connection', 'close');
+            request.send(send);
+        }
+    </script>
+</body>
+</html>

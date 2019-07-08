@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Android Projects\RetroBand1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_6c2a284fdd61d0d8ac24aa3991d9cfbc35ef85c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\RetroBand1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Android Projects\RetroBand1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_7a774ddbdaf32b2fcd83c2ef4790ee66c6412c1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\RetroBand1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fff01af354a2ac370031848ed913ba0d4d27f91d">
+        <dex dex="D:\Android Projects\RetroBand1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_93b7248c963d285f9f28e05379978bca45353b94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\RetroBand1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1648e1ed953d24ee4c5b736e0eff2130ed9cc9c0">
+        <dex dex="D:\Android Projects\RetroBand1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4c324a83be538427aa8c710047a1c05a20272420\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\RetroBand1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Android Projects\RetroBand1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_15f6960426cfebc3777f6e33e56d77621985dd69\classes.dex" />
+    </item>
+
+</items>

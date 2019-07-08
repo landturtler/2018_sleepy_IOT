@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">굿잠</string>
+    <string name="service_name">RetroBand service</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    
+    
+    <!-- Statistics -->
+    <string name="title_statistics">활동 기록</string>
+    <string name="title_month">매달</string>
+    <string name="title_day">매일</string>
+    <string name="title_hour">매시간</string>
+    
+    <!-- Settings -->
+    <string name="action_settings">앱 세팅</string>
+    <string name="settings_background_service">백그라운드에서 작동하기</string>
+    <string name="settings_weight">몸무게(kg)</string>
+    <string name="settings_weight_hint">몸무게를 넣어주세요</string>
+    
+    <!-- UI, Activity, Fragment -->
+    <string name="title_timeline">타임라인</string>
+    <string name="title_graph">그래프</string>
+    <string name="title_ll_settings">설정</string>
+    
+    <string name="title_render1">그래프 수치</string>
+    <string name="desc_render1">X:빨강, Y:연두, Z:파랑</string>
+    
+    <string name="title_calorie"></string>
+    <string name="title_walks">흔든 횟수</string>
+    
+    <string name="title_time_interval">Time interval</string>
+    
+    <!--  Bluetooth -->
+    <string name="bt_title">Bluetooth</string>
+    
+    <string name="bt_state_init">initializing</string>
+    <string name="bt_state_wait">waiting.. (select a device manually)</string>
+    <string name="bt_state_connect">connecting</string>
+    <string name="bt_state_connected">connected</string>
+    <string name="bt_state_error">error</string>
+    
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Set the bluetooth enable at phone settings.</string>
+    <string name="bt_cmd_sending_error">Transaction failed</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">Scanning for devices...</string>
+    <string name="select_device">Select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <!-- Options Menu -->
+    <string name="connect">Connect\na device</string>
+    <string name="discoverable">Make\ndiscoverable</string>
+    
+
+</resources>

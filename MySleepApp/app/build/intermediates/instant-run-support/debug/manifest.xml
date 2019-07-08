@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hardcopy.retroband"
+    android:versionCode="3"
+    android:versionName="1.0.2" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="14" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/mainlogo"
+        android:label="굿잠"
+        android:theme="@style/AppTheme" >
+
+        <!-- Activity -->
+        <activity
+            android:name="com.goodjam.AlarmApp.MainActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="굿잠"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.goodjam.AlarmApp.DeviceListActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/select_device"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+        <activity android:name="com.goodjam.AlarmApp.GraphActivity" />
+        <activity android:name="com.goodjam.AlarmApp.AlarmSelect" />
+        <activity android:name="com.goodjam.AlarmApp.AlarmSetting" />
+        <activity android:name="com.goodjam.AlarmApp.ShutDown" />
+        <activity android:name="com.goodjam.AlarmApp.MyPageActivity" />
+
+        <receiver android:name="com.goodjam.AlarmApp.AlarmReceiver" />
+
+        <!-- Service -->
+        <service
+            android:name="com.goodjam.AlarmApp.service.RetroBandService"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:icon="@drawable/ic_launcher"
+            android:label="@string/service_name" >
+        </service>
+        <service
+            android:name="com.goodjam.AlarmApp.MyService"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.goodjam.AlarmApp.MyService" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

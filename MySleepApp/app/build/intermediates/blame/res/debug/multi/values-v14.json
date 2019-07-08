@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 308
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 308
+                    }
+                }
+            }
+        ]
+    }
+]

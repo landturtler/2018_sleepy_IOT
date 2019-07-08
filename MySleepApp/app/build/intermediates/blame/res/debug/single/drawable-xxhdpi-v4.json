@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\button.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\drawable-xxhdpi\\button.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mypage_event.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\drawable-xxhdpi\\mypage_event.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\shutdown_event.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\drawable-xxhdpi\\shutdown_event.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\round2.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\drawable-xxhdpi\\round2.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\button.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\drawable-xxhdpi\\button.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\round2.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\drawable-xxhdpi\\round2.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\timeset.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\drawable-xxhdpi\\timeset.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\date.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\drawable-xxhdpi\\date.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\date.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\drawable-xxhdpi\\date.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\graph_event.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\drawable-xxhdpi\\graph_event.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\round.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\drawable-xxhdpi\\round.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\alarm_set_event.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\drawable-xxhdpi\\alarm_set_event.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mypage_event.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\drawable-xxhdpi\\mypage_event.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\round.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\drawable-xxhdpi\\round.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\alarm_set_event.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\drawable-xxhdpi\\alarm_set_event.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\graph_event.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\drawable-xxhdpi\\graph_event.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\shutdown_event.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\drawable-xxhdpi\\shutdown_event.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\timeset.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\drawable-xxhdpi\\timeset.xml"
+    }
+]

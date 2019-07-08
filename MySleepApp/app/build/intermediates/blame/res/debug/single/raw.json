@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\music.ogg",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\raw\\music.ogg"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\music.ogg",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\raw\\music.ogg"
+    }
+]

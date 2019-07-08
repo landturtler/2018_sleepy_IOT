@@ -1,0 +1,7 @@
+#Sat Jan 07 14:08:57 KST 2017
+base.0=D\:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_93b7248c963d285f9f28e05379978bca45353b94
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4c324a83be538427aa8c710047a1c05a20272420\\classes.dex
+base.1=D\:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4c324a83be538427aa8c710047a1c05a20272420
+file.0=D\:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_93b7248c963d285f9f28e05379978bca45353b94\\classes.dex

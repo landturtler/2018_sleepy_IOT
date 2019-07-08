@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_graph.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\layout\\fragment_graph.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_list.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\layout\\activity_device_list.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_dummy.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\layout\\fragment_main_dummy.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_timeline.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\layout\\fragment_timeline.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_device_name.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\layout\\adapter_device_name.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_settings.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_timeline.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\layout\\list_item_timeline.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shutdown.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\layout\\activity_shutdown.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\layout\\activity_my.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarmsetting.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\layout\\alarmsetting.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shutdown.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\layout\\activity_shutdown.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarmsetting.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\layout\\alarmsetting.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_settings.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_dummy.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\layout\\fragment_main_dummy.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_list.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\layout\\activity_device_list.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_graph.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\layout\\fragment_graph.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_timeline.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\layout\\list_item_timeline.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\layout\\activity_my.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_timeline.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\layout\\fragment_timeline.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_device_name.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\layout\\adapter_device_name.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\MySleepApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_graph.xml",
+        "source": "D:\\Android Projects\\MySleepApp\\app\\src\\main\\res\\layout\\activity_graph.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RetroBand1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_graph.xml",
+        "source": "D:\\Android Projects\\RetroBand1\\app\\src\\main\\res\\layout\\activity_graph.xml"
+    }
+]
