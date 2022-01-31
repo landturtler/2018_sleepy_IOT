@@ -1,5 +1,4 @@
 # :tada: 당신의_수면을_책임지는_IOT
-- 2018 / 창직 IoT 종합 설계 입문
 - 수면 관리, 전기 절약 등을 해결할 수 있는 IoT 프로젝트 구상
 
 ![motivation](https://user-images.githubusercontent.com/48278519/151744345-37778942-fdae-45fc-9443-e7457517ad60.JPG)
